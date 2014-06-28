@@ -1,4 +1,4 @@
 myriad-android-app
 ==================
 
-Code for the Myriad Mobile Android position
+Sukhneet Singh Virk's entry for the Myriad Mobile Android position
